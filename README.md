@@ -1,6 +1,6 @@
 <div align="center">
 
-# Supakorn Krommarin
+<img src="assets/banner.svg" alt="Supakorn Krommarin - automate everything" width="100%">
 
 **Backend and automation · Computer vision with Python**
 
