@@ -38,7 +38,7 @@ Seeking an internship for June-August 2027
 
 ### [FO3 Auto League](https://github.com/S-Krommarin/Fo3-AutoClick)
 Windows desktop tool that automates a repetitive game mode using OpenCV template matching and background clicks.
-Released as a free download with real users. Handles multiple screen sizes, ships as a single signed-by-checksum `.exe`, and is covered by 265 automated tests.
+Released as a free download with real users. Handles multiple screen sizes, ships as a single `.exe` with a published SHA-256 checksum, and is covered by 265 automated tests.
 
 `Python` `OpenCV` `PySide6` `Nuitka` `pytest`
 
